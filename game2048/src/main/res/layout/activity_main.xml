@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f3ece6"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/header"/>
+
+    <LinearLayout
+        android:id="@+id/gameContainer"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:gravity="center">
+
+        <com.guang.sun.game.GameView
+            android:id="@+id/gameView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

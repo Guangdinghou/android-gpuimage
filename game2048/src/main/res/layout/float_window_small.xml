@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/small_window_layout"
+    android:layout_width="55dp"
+    android:layout_height="55dp"
+    android:padding="3dp"
+    >
+
+
+
+    <com.guang.sun.game.floatwindowdemo.MyProgressbar
+        android:id="@+id/pb"
+        style="@style/ProgressBar_Mini"
+        android:layout_centerInParent="true"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:progress="50" />
+
+    <TextView
+        android:id="@+id/percent"
+
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:text="55%"
+        android:textSize="14sp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textColor="#ffffff" />
+</RelativeLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/big_window_layout"
+    android:layout_width="200dip"
+    android:layout_height="200dip"
+    android:background="@drawable/border_yuan_blue_view"
+    android:padding="10dp"
+
+    >
+
+    <Button
+        android:id="@+id/close"
+        android:background="@drawable/btn_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:text="隐藏" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:background="@drawable/btn_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="返回"
+        android:layout_gravity="center_horizontal"
+         />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_horizontal"
+        android:text="拍" />
+
+</RelativeLayout>

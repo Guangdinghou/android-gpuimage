@@ -1,2 +1,2 @@
-include ':library'
+include ':library', ':game2048', ':myvideodemo'
 include ':sample'

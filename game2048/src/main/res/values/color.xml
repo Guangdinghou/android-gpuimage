@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="red">#fff9bbbb</color>
+    <color name="SkyBlue">#00BFFF</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="Orange">#FFA500</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="gray">#ff333333</color>
+    <color name="studeytext">#55595C</color>
+    <color name="scoregray">#A1A3AA</color>
+    <color name="scoregreen">#449175</color>
+    <color name="scorered">#DF9D91</color>
+<color name="border">#bbada0</color>
+    <color name="sekuai">#ccc1b4</color>
+    <drawable name="transparent_background">#00000000</drawable>
+    <color name="white">#fff</color>
+    <color name="black">#000</color>
+    <color name="alpha_black">#77000000</color>
+    <!-- 登录界面背景 -->
+    <color name="login_bg">#f5f5f5</color>
+    <!-- 登录按钮背景 -->
+    <color name="login_button_bg">#5eabf9</color>
+    <!-- “用户注册”字体颜色 -->
+    <color name="register_button_bg">#4acf1c</color>
+    <!-- 标题背景颜色 -->
+    <color name="title_bg">#882c9fe8</color>
+
+    <color name="title_bg_deep">#1290df</color>
+    <!-- 用于文字的灰色 -->
+    <color name="text_grey">#6D6D6D</color>
+    <color name="text_middle_grey">#666666</color>
+    <!-- 用于文字的深灰色 -->
+    <color name="text_deep_grey">#424242</color>
+    <!-- 用于文字的浅灰色 -->
+    <color name="text_light_grey">#A0A0A0</color>
+    <!--边框的浅灰色-->
+    <color name="grey_border">#eaeaea</color>
+    <!--分割线的灰色-->
+    <color name="grey_cut_line">#dbdbdb</color>
+    <!-- 用户分割线的浅灰色 -->
+    <color name="line_grey">#d3d3d3</color>
+    <!-- 标题背景的灰色 -->
+    <color name="text_title_bg_grey">#C8C7CC</color>
+    <!-- 字体背景的灰色 -->
+    <color name="text_bg_grey">#EEEEEE</color>
+    <!-- 字体背景的深灰色 -->
+    <color name="text_bg_deep_grey">#CFCFCF</color>
+    <!-- 课件 子目录的背景  淡蓝色 -->
+    <color name="courseware_light_blue">#E5EFF8</color>
+    <!-- 退出按钮 红色 -->
+    <color name="exit_red">#EE4629</color>
+    <!-- 字体橙色 -->
+    <color name="orange_text">#ff9000</color>
+
+    <color name="orange_button_pre">#ef8700</color>
+
+
+    <!-- 字体绿色 -->
+    <color name="green_text">#52b786</color>
+    <color name="blue_text">#2c9fe8</color>
+    <color name="green_button_normal_color">#4bc7c7</color>
+    <color name="dialog_cancel_button_box_color">#cfcfcf</color>
+    <color name="background_grey">#f5f5f5</color>
+
+    <color name="bg_color">#EDEDED</color>
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="help_button_view">#ffcccccc</color>
+    <color name="help_view">#ff404040</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_image_border">#ffffffff</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="sbc_header_text">#ff808080</color>
+    <color name="sbc_header_view">#ffffffff</color>
+    <color name="sbc_list_item">#fffff0e0</color>
+    <color name="sbc_layout_view">#ffffffff</color>
+    <color name="sbc_page_number_text">#ff000000</color>
+    <color name="sbc_snippet_text">#ff4b4b4b</color>
+    <color name="share_text">#ff000000</color>
+    <color name="share_view">#ffffffff</color>
+    <color name="status_view">#50000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="header">#58567D</color>
+    <color name="grgray">#686868</color>
+
+    <color name="btn_green">#8fc320</color>
+    <color name="btn_green_pre">#7db701</color>
+    <color name="focus_color">#aa000000</color>
+
+</resources>
